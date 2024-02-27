@@ -1,0 +1,45 @@
+{
+ "verifyApplicationTitle_TC01":
+  {
+  "ExpectedTitle" :""
+  },
+  
+ "verifyApplicationLogo_TC02" :
+  {
+  
+  },
+ "verifytextKeyModules_TC03":
+  {
+  
+  
+  },
+"verifyInvalidLogin_TC04":
+  {
+  "Userid": "anjali",
+  "Password": "gaikwad"
+  },
+"verifyValidLogin_TC05":
+  {
+  "Userid": "admin",
+  "Password": "admin"
+ },
+ "valid_login_TC01":
+  {
+  "Userid": "admin",
+  "Password": "admin"
+ },
+ "valid_login_with_Theme_TC06":
+  {
+  "Userid": "admin",
+  "Password": "admin",
+  "Theme":"2"
+ },
+ "valid_login_with_Theme_and_Language_TC07":
+  {
+  "Userid": "admin",
+  "Password": "admin",
+  "Theme":"2",
+  "Language" : "en_us"
+ }
+
+}
